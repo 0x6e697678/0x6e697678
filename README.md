@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0&section=header" width="100%" alt="" />
-</p>
+### Greetings, traveler
 
-<h2 align="left">🙋‍♂️ Glad to see you here!</h2>
+Of all the places you could have ended up on the internet, somehow you've found your way to my little corner GitHub. Whether by chance or curiosity, I hope you enjoy your stay.
 
+<<<<<<< Updated upstream
 <p align="left">I'm a computer science student aspiring to become a software engineer. I love programming, problem-solving, and exploring new technologies. I'm passionate about writing clean, efficient code and continuously improving my skills to build meaningful projects.</p>
 
 <p>More about me:</p>
@@ -103,3 +102,6 @@ Other                43 hrs 8 mins         🌖🌑🌑🌑🌑🌑🌑🌑🌑�
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2&section=footer" width="100%" alt="" />
 </p>
+=======
+Feel free to wander through my projects. Maybe you'll find something useful, something interesting, or even a little inspiration for something of your own.
+>>>>>>> Stashed changes
